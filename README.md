@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @OTaldoTchelo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @OTaldoTchelo  (Marcelo Ananias)
+  � I’m interested in ...  desenvolvimento de jogos 
+- 🌱 I’m currently learning ... linguagens de programação
+-   💞️ I’m looking to collaborate on ...criação e desenvolvimento
+- 📫 How to reach me ... por aqui ou linkedin
 
 <!---
 OTaldoTchelo/OTaldoTchelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
